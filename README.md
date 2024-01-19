@@ -24,5 +24,5 @@ We welcome contributions! If you'd like to contribute to a specific system or ad
 
 ## License
 
-This project is licensed under the [License Name](link_to_license).
+This project is licensed under the [License Name](link_to_license)..
 
